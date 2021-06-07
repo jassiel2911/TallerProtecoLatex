@@ -1,6 +1,9 @@
 \documentclass[letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subfigure}
 
 \title{Primer documento en \LaTeX}
 \author{Brian Bautista}
@@ -10,8 +13,27 @@
     Hola mundo desde \LaTeX, soy Brian y quiero hacer mi primer documento.
 
     \section*{1. Im\'agenes}
+
+        \includegraphics[width = 3cm]{tigre.jpg}
     
     \section*{2. Posicionamiento de im\'agenes}
+
+        \begin{figure}[h!]
+            \raggedright
+            \subfigure[Imagen a la izquierda]{\includegraphics[width = 3cm]{tigre.jpg}}
+        \end{figure}
+        
+        \begin{figure}[h!]
+            \centering
+            \subfigure[Imagen al centro]{\includegraphics[width = 3cm]{tigre.jpg}}
+        \end{figure}
+
+        \begin{figure}[h!]
+            \raggedleft
+            \subfigure[Imagen a la derecha]{\includegraphics[width = 3cm]{tigre.jpg}}
+        \end{figure}
+
+        
 
     \section*{3. F\'ormulas matem\'aticas}
 
