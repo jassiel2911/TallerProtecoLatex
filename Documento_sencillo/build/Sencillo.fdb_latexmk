@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1623038478 "c:/Users/bjbp2/Downloads/TallerProtecoLatex/Documento_sencillo/Sencillo.tex" "build/Sencillo.pdf" "Sencillo" 1623038479
+["pdflatex"] 1623044027 "c:/Users/bjbp2/Downloads/TallerProtecoLatex/Documento_sencillo/Sencillo.tex" "build/Sencillo.pdf" "Sencillo" 1623044028
   "C:/Users/bjbp2/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1598029210 10050466 84263b3a9a10153838c5a7ac8d4312b5 ""
   "C:/Users/bjbp2/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1623038200 81068 299f700eb05b1217173e62b88b513bd0 ""
   "C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -39,11 +39,11 @@
   "C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdfmode.def" 1596811274 23999 8a228deaba3299c0c1626d44ce219d70 ""
   "C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/tex/latex/subfigure/subfigure.cfg" 1114307770 2114 42ba738bf6f1cec796106a69840777a4 ""
   "C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/tex/latex/subfigure/subfigure.sty" 1114307770 14815 1d3da78e0f66f3c62133fbabffd13cf5 ""
-  "Sencillo.tex" 1623038476 1305 4bce480ce8d71fdf36c61c1346c85bd6 ""
-  "build/Sencillo.aux" 1623038479 547 e307cabe5720ba747cdc4341a74ad166 "pdflatex"
-  "c:/Users/bjbp2/Downloads/TallerProtecoLatex/Documento_sencillo/Sencillo.tex" 1623038476 1305 4bce480ce8d71fdf36c61c1346c85bd6 ""
+  "Sencillo.tex" 1623044026 1304 1aff7f47b9de33144d4d782a95c337ce ""
+  "build/Sencillo.aux" 1623044028 547 cb5164b4dccb3c345976042a838700e4 "pdflatex"
+  "c:/Users/bjbp2/Downloads/TallerProtecoLatex/Documento_sencillo/Sencillo.tex" 1623044026 1304 1aff7f47b9de33144d4d782a95c337ce ""
   "tigre.jpg" 1623032476 393414 2905b8d1797d1d13a46b856f945721a1 ""
   (generated)
   "build/Sencillo.log"
-  "build/Sencillo.aux"
   "build/Sencillo.pdf"
+  "build/Sencillo.aux"

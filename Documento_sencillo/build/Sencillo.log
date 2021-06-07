@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.21)  6 JUN 2021 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.21)  7 JUN 2021 00:33
 entering extended mode
 **c:/Users/bjbp2/Downloads/TallerProtecoLatex/Documento_sencillo/Sencillo.tex
 (c:/Users/bjbp2/Downloads/TallerProtecoLatex/Documento_sencillo/Sencillo.tex
@@ -164,28 +164,24 @@ File: tigre.jpg Graphic file (type jpg)
 <use tigre.jpg>
 Package pdftex.def Info: tigre.jpg  used on input line 33.
 (pdftex.def)             Requested size: 85.35826pt x 64.01463pt.
+ [1
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[1
-
-{C:/Users/bjbp2/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./tigre.jpg>] [2] (c:\Users\bjbp2\Downloads\TallerProtecoLatex\Documento_sencillo\build\Sencillo.aux
+{C:/Users/bjbp2/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./tigre.jpg>] (c:\Users\bjbp2\Downloads\TallerProtecoLatex\Documento_sencillo\build\Sencillo.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
  2522 strings out of 481212
- 37056 string characters out of 2905973
- 289200 words of memory out of 3000000
+ 37054 string characters out of 2905973
+ 290198 words of memory out of 3000000
  18117 multiletter control sequences out of 15000+200000
  539650 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,6n,35p,266b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on c:\Users\bjbp2\Downloads\TallerProtecoLatex\Documento_sencillo\build\Sencillo.pdf (2 pages, 464561 bytes).
+Output written on c:\Users\bjbp2\Downloads\TallerProtecoLatex\Documento_sencillo\build\Sencillo.pdf (1 page, 463783 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
